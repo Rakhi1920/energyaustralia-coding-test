@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Festival.Check/1.0.0": {
+        "dependencies": {
+          "Festival": "1.0.0"
+        },
+        "runtime": {
+          "Festival.Check.dll": {}
+        }
+      },
+      "Festival/1.0.0": {
+        "runtime": {
+          "Festival.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Festival.Check/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Festival/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,36 @@
+﻿@model IEnumerable<BandFestivalDto>
+
+@{
+
+    ViewBag.Title = "List of Festivals";
+}
+
+<div>
+    
+    @foreach (var festival in Model)
+    {
+        @if (festival.recordLabel != null)
+        {
+        <div >
+            <ul>  
+                <li>
+                   <b> @festival.recordLabel</b>
+
+                    <ul>
+                       <li>
+                            @festival.bandName
+                           <ul>
+                              <li>
+                               @festival.festivalName
+                              </li>
+                            </ul>
+                       </li>
+                    </ul>
+                </li>
+             </ul>
+      </div>
+      <br />
+            }
+        }
+
+</div>

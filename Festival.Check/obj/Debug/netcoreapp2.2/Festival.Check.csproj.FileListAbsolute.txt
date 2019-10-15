@@ -1,0 +1,14 @@
+C:\Project\Festival\Festival.Check\bin\Debug\netcoreapp2.2\Festival.Views.dll
+C:\Project\Festival\Festival.Check\bin\Debug\netcoreapp2.2\Festival.Views.pdb
+C:\Project\Festival\Festival.Check\bin\Debug\netcoreapp2.2\Festival.Check.deps.json
+C:\Project\Festival\Festival.Check\bin\Debug\netcoreapp2.2\Festival.Check.dll
+C:\Project\Festival\Festival.Check\bin\Debug\netcoreapp2.2\Festival.Check.pdb
+C:\Project\Festival\Festival.Check\bin\Debug\netcoreapp2.2\Festival.dll
+C:\Project\Festival\Festival.Check\bin\Debug\netcoreapp2.2\Festival.pdb
+C:\Project\Festival\Festival.Check\obj\Debug\netcoreapp2.2\Festival.Check.csprojAssemblyReference.cache
+C:\Project\Festival\Festival.Check\obj\Debug\netcoreapp2.2\Festival.Check.csproj.CoreCompileInputs.cache
+C:\Project\Festival\Festival.Check\obj\Debug\netcoreapp2.2\Festival.Check.AssemblyInfoInputs.cache
+C:\Project\Festival\Festival.Check\obj\Debug\netcoreapp2.2\Festival.Check.AssemblyInfo.cs
+C:\Project\Festival\Festival.Check\obj\Debug\netcoreapp2.2\Festival.Check.csproj.CopyComplete
+C:\Project\Festival\Festival.Check\obj\Debug\netcoreapp2.2\Festival.Check.dll
+C:\Project\Festival\Festival.Check\obj\Debug\netcoreapp2.2\Festival.Check.pdb
